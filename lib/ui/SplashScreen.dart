@@ -11,7 +11,8 @@ class SplashScreen extends StatefulWidget {
   }
 }
 
-class _SplashScreen extends State<SplashScreen> with TickerProviderStateMixin {
+class _SplashScreen extends State<SplashScreen> {
+    // with TickerProviderStateMixin {
 
   // AnimationController _animController;
   // Animation<Offset> _animOffset;
